@@ -171,6 +171,8 @@ end TCL_Generic;
     <wire from="(1220,1060)" to="(1220,1080)"/>
     <wire from="(1220,340)" to="(1220,360)"/>
     <wire from="(1190,150)" to="(1190,170)"/>
+    <wire from="(1240,1240)" to="(1240,1260)"/>
+    <wire from="(1240,1320)" to="(1240,1340)"/>
     <wire from="(1200,1450)" to="(1240,1450)"/>
     <wire from="(1230,430)" to="(1230,460)"/>
     <wire from="(1130,970)" to="(1230,970)"/>
@@ -182,8 +184,6 @@ end TCL_Generic;
     <wire from="(870,710)" to="(870,730)"/>
     <wire from="(340,980)" to="(340,1010)"/>
     <wire from="(1150,410)" to="(1150,550)"/>
-    <wire from="(640,1440)" to="(640,1460)"/>
-    <wire from="(640,1520)" to="(640,1540)"/>
     <wire from="(1130,490)" to="(1180,490)"/>
     <wire from="(1210,410)" to="(1210,460)"/>
     <wire from="(830,700)" to="(850,700)"/>
@@ -228,6 +228,7 @@ end TCL_Generic;
     <wire from="(1210,700)" to="(1210,710)"/>
     <wire from="(1240,90)" to="(1240,100)"/>
     <wire from="(1240,810)" to="(1240,820)"/>
+    <wire from="(1220,1190)" to="(1220,1200)"/>
     <wire from="(350,840)" to="(350,1120)"/>
     <wire from="(1180,670)" to="(1180,720)"/>
     <wire from="(540,1100)" to="(560,1100)"/>
@@ -245,15 +246,16 @@ end TCL_Generic;
     <wire from="(1220,520)" to="(1220,540)"/>
     <wire from="(1190,330)" to="(1190,350)"/>
     <wire from="(1190,1050)" to="(1190,1070)"/>
+    <wire from="(1240,1260)" to="(1240,1280)"/>
+    <wire from="(1240,1340)" to="(1240,1360)"/>
     <wire from="(1230,610)" to="(1230,640)"/>
     <wire from="(1130,430)" to="(1230,430)"/>
     <wire from="(330,1130)" to="(500,1130)"/>
     <wire from="(870,170)" to="(870,190)"/>
     <wire from="(870,890)" to="(870,910)"/>
+    <wire from="(1240,1180)" to="(1240,1190)"/>
     <wire from="(520,1020)" to="(520,1040)"/>
     <wire from="(1150,590)" to="(1150,730)"/>
-    <wire from="(640,1460)" to="(640,1480)"/>
-    <wire from="(640,1540)" to="(640,1560)"/>
     <wire from="(1130,670)" to="(1180,670)"/>
     <wire from="(1210,590)" to="(1210,640)"/>
     <wire from="(1240,700)" to="(1240,750)"/>
@@ -269,7 +271,7 @@ end TCL_Generic;
     <wire from="(390,2250)" to="(390,2310)"/>
     <wire from="(790,190)" to="(870,190)"/>
     <wire from="(790,910)" to="(870,910)"/>
-    <wire from="(640,1430)" to="(640,1440)"/>
+    <wire from="(1220,1190)" to="(1240,1190)"/>
     <wire from="(1170,470)" to="(1170,550)"/>
     <wire from="(1130,1110)" to="(1240,1110)"/>
     <wire from="(1130,630)" to="(1240,630)"/>
@@ -313,6 +315,8 @@ end TCL_Generic;
     <wire from="(450,2290)" to="(450,2550)"/>
     <wire from="(1220,700)" to="(1220,720)"/>
     <wire from="(1190,510)" to="(1190,530)"/>
+    <wire from="(1240,1200)" to="(1240,1220)"/>
+    <wire from="(1240,1280)" to="(1240,1300)"/>
     <wire from="(1230,70)" to="(1230,100)"/>
     <wire from="(50,220)" to="(230,220)"/>
     <wire from="(1230,790)" to="(1230,820)"/>
@@ -323,8 +327,6 @@ end TCL_Generic;
     <wire from="(870,350)" to="(870,370)"/>
     <wire from="(1150,770)" to="(1150,910)"/>
     <wire from="(1150,50)" to="(1150,190)"/>
-    <wire from="(640,1480)" to="(640,1500)"/>
-    <wire from="(640,1560)" to="(640,1580)"/>
     <wire from="(1130,850)" to="(1180,850)"/>
     <wire from="(1130,130)" to="(1180,130)"/>
     <wire from="(750,550)" to="(750,570)"/>
@@ -349,7 +351,6 @@ end TCL_Generic;
     <wire from="(890,490)" to="(900,490)"/>
     <wire from="(790,370)" to="(870,370)"/>
     <wire from="(790,1090)" to="(870,1090)"/>
-    <wire from="(620,1430)" to="(620,1440)"/>
     <wire from="(1170,650)" to="(1170,730)"/>
     <wire from="(1130,810)" to="(1240,810)"/>
     <wire from="(1130,570)" to="(1240,570)"/>
@@ -389,11 +390,12 @@ end TCL_Generic;
     <wire from="(1190,350)" to="(1210,350)"/>
     <wire from="(1140,780)" to="(1140,890)"/>
     <wire from="(1140,60)" to="(1140,170)"/>
-    <wire from="(640,1420)" to="(640,1430)"/>
     <wire from="(780,1000)" to="(830,1000)"/>
     <wire from="(1220,160)" to="(1220,180)"/>
     <wire from="(1220,880)" to="(1220,900)"/>
     <wire from="(1190,690)" to="(1190,710)"/>
+    <wire from="(1240,1220)" to="(1240,1240)"/>
+    <wire from="(1240,1300)" to="(1240,1320)"/>
     <wire from="(1230,250)" to="(1230,280)"/>
     <wire from="(1230,970)" to="(1230,1000)"/>
     <wire from="(1130,790)" to="(1230,790)"/>
@@ -404,8 +406,6 @@ end TCL_Generic;
     <wire from="(1150,950)" to="(1150,1090)"/>
     <wire from="(1150,230)" to="(1150,370)"/>
     <wire from="(330,800)" to="(370,800)"/>
-    <wire from="(640,1500)" to="(640,1520)"/>
-    <wire from="(640,1580)" to="(640,1600)"/>
     <wire from="(1130,1030)" to="(1180,1030)"/>
     <wire from="(1130,310)" to="(1180,310)"/>
     <wire from="(1240,340)" to="(1240,390)"/>
@@ -413,7 +413,6 @@ end TCL_Generic;
     <wire from="(1210,230)" to="(1210,280)"/>
     <wire from="(1240,1060)" to="(1240,1110)"/>
     <wire from="(1140,420)" to="(1220,420)"/>
-    <wire from="(620,1430)" to="(640,1430)"/>
     <wire from="(1130,1070)" to="(1140,1070)"/>
     <wire from="(1130,350)" to="(1140,350)"/>
     <wire from="(520,1160)" to="(550,1160)"/>
@@ -449,6 +448,7 @@ end TCL_Generic;
     <wire from="(1170,550)" to="(1230,550)"/>
     <wire from="(1210,520)" to="(1210,530)"/>
     <wire from="(1240,630)" to="(1240,640)"/>
+    <wire from="(1240,1190)" to="(1240,1200)"/>
     <wire from="(1180,490)" to="(1180,540)"/>
     <wire from="(780,920)" to="(800,920)"/>
     <wire from="(900,450)" to="(900,490)"/>
@@ -551,51 +551,9 @@ end TCL_Generic;
       <a name="enable" val="false"/>
     </comp>
     <comp lib="2" loc="(490,550)" name="Priority Encoder"/>
-    <comp lib="0" loc="(640,1420)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="led_9"/>
-    </comp>
-    <comp lib="0" loc="(640,1440)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(640,1460)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(640,1480)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(640,1500)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(640,1540)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(640,1580)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(640,1520)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(640,1560)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(640,1600)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-    </comp>
-    <comp lib="0" loc="(620,1440)" name="Ground"/>
     <comp lib="0" loc="(150,2710)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="638"/>
+      <a name="lowDuration" val="638"/>
       <a name="label" val="Sol7"/>
     </comp>
     <comp lib="0" loc="(150,2990)" name="Clock">
@@ -604,83 +562,79 @@ end TCL_Generic;
       <a name="label" val="La8"/>
     </comp>
     <comp lib="0" loc="(150,2430)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="1432"/>
+      <a name="lowDuration" val="1432"/>
       <a name="label" val="Fa6"/>
     </comp>
     <comp lib="0" loc="(150,2850)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="426"/>
+      <a name="lowDuration" val="426"/>
       <a name="label" val="Re8"/>
     </comp>
     <comp lib="0" loc="(150,2970)" name="Clock">
+      <a name="highDuration" val="301"/>
+      <a name="lowDuration" val="301"/>
       <a name="label" val="SolD8"/>
     </comp>
     <comp lib="0" loc="(150,2830)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="451"/>
+      <a name="lowDuration" val="451"/>
       <a name="label" val="DoD8"/>
     </comp>
     <comp lib="0" loc="(150,2150)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="3214"/>
+      <a name="lowDuration" val="3214"/>
       <a name="label" val="ReD5"/>
     </comp>
     <comp lib="0" loc="(150,2350)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="1804"/>
+      <a name="lowDuration" val="1804"/>
       <a name="label" val="DoD6"/>
     </comp>
     <comp lib="0" loc="(150,2310)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="2025"/>
+      <a name="lowDuration" val="2025"/>
       <a name="label" val="Si5"/>
     </comp>
     <comp lib="0" loc="(150,2270)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="2273"/>
+      <a name="lowDuration" val="2273"/>
       <a name="label" val="La5"/>
     </comp>
     <comp lib="0" loc="(150,2290)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="2145"/>
+      <a name="lowDuration" val="2145"/>
       <a name="label" val="SiB5"/>
     </comp>
     <comp lib="0" loc="(150,2730)" name="Clock">
+      <a name="highDuration" val="602"/>
+      <a name="lowDuration" val="602"/>
       <a name="label" val="SolD7"/>
     </comp>
     <comp lib="0" loc="(150,2370)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="1703"/>
+      <a name="lowDuration" val="1703"/>
       <a name="label" val="Re6"/>
     </comp>
     <comp lib="0" loc="(150,2950)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="319"/>
+      <a name="lowDuration" val="319"/>
       <a name="label" val="Sol8"/>
     </comp>
-    <comp lib="0" loc="(150,2650)" name="Clock">
-      <a name="label" val="Mi7"/>
-    </comp>
     <comp lib="0" loc="(150,2910)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="358"/>
+      <a name="lowDuration" val="358"/>
       <a name="label" val="Fa8"/>
     </comp>
     <comp lib="0" loc="(150,2670)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="716"/>
+      <a name="lowDuration" val="716"/>
       <a name="label" val="Fa7"/>
     </comp>
     <comp lib="0" loc="(150,2510)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="1136"/>
+      <a name="lowDuration" val="1136"/>
       <a name="label" val="La6"/>
-    </comp>
-    <comp lib="0" loc="(150,2630)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
-      <a name="label" val="ReD7"/>
     </comp>
     <comp lib="0" loc="(150,3010)" name="Clock">
       <a name="highDuration" val="268"/>
@@ -688,37 +642,43 @@ end TCL_Generic;
       <a name="label" val="SiB8"/>
     </comp>
     <comp lib="0" loc="(150,2930)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="338"/>
+      <a name="lowDuration" val="338"/>
       <a name="label" val="FaD8"/>
     </comp>
     <comp lib="0" loc="(150,2550)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="1012"/>
+      <a name="lowDuration" val="1012"/>
       <a name="label" val="Si6"/>
     </comp>
     <comp lib="0" loc="(150,2470)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="1276"/>
+      <a name="lowDuration" val="1276"/>
       <a name="label" val="Sol6"/>
     </comp>
     <comp lib="0" loc="(150,2090)" name="Clock">
+      <a name="highDuration" val="3822"/>
+      <a name="lowDuration" val="3822"/>
       <a name="label" val="Do5"/>
     </comp>
     <comp lib="0" loc="(150,2110)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="3608"/>
+      <a name="lowDuration" val="3608"/>
       <a name="label" val="DoD5"/>
     </comp>
     <comp lib="0" loc="(150,2690)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="676"/>
+      <a name="lowDuration" val="676"/>
       <a name="label" val="FaD7"/>
     </comp>
     <comp lib="0" loc="(150,2570)" name="Clock">
+      <a name="highDuration" val="956"/>
+      <a name="lowDuration" val="956"/>
       <a name="label" val="Do7"/>
     </comp>
     <comp lib="0" loc="(150,2250)" name="Clock">
+      <a name="highDuration" val="2408"/>
+      <a name="lowDuration" val="2408"/>
       <a name="label" val="SolD5"/>
     </comp>
     <comp lib="0" loc="(150,3030)" name="Clock">
@@ -727,96 +687,108 @@ end TCL_Generic;
       <a name="label" val="Si8"/>
     </comp>
     <comp lib="0" loc="(150,2790)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="506"/>
+      <a name="lowDuration" val="506"/>
       <a name="label" val="Si7"/>
     </comp>
     <comp lib="0" loc="(150,2450)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="1351"/>
+      <a name="lowDuration" val="1351"/>
       <a name="label" val="FaD6"/>
     </comp>
     <comp lib="0" loc="(150,2890)" name="Clock">
+      <a name="highDuration" val="379"/>
+      <a name="lowDuration" val="379"/>
       <a name="label" val="Mi8"/>
     </comp>
     <comp lib="0" loc="(150,2490)" name="Clock">
+      <a name="highDuration" val="1204"/>
+      <a name="lowDuration" val="1204"/>
       <a name="label" val="SolD6"/>
     </comp>
     <comp lib="0" loc="(150,2610)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="851"/>
+      <a name="lowDuration" val="851"/>
       <a name="label" val="Re7"/>
     </comp>
     <comp lib="0" loc="(150,2190)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="2863"/>
+      <a name="lowDuration" val="2863"/>
       <a name="label" val="Fa"/>
     </comp>
     <comp lib="0" loc="(150,2590)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="902"/>
+      <a name="lowDuration" val="902"/>
       <a name="label" val="DoD7"/>
     </comp>
     <comp lib="0" loc="(150,2870)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="402"/>
+      <a name="lowDuration" val="402"/>
       <a name="label" val="ReD8"/>
     </comp>
     <comp lib="0" loc="(150,2390)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="1607"/>
+      <a name="lowDuration" val="1607"/>
       <a name="label" val="ReD6"/>
     </comp>
     <comp lib="0" loc="(150,2210)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="2703"/>
+      <a name="lowDuration" val="2703"/>
       <a name="label" val="FaD5"/>
     </comp>
     <comp lib="0" loc="(150,2330)" name="Clock">
+      <a name="highDuration" val="1911"/>
+      <a name="lowDuration" val="1911"/>
       <a name="label" val="Do6"/>
     </comp>
     <comp lib="0" loc="(150,2530)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="1073"/>
+      <a name="lowDuration" val="1073"/>
       <a name="label" val="Sib6"/>
     </comp>
     <comp lib="0" loc="(150,2230)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="2551"/>
+      <a name="lowDuration" val="2551"/>
       <a name="label" val="Sol5"/>
     </comp>
     <comp lib="0" loc="(150,2770)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="536"/>
+      <a name="lowDuration" val="536"/>
       <a name="label" val="SiB7"/>
     </comp>
     <comp lib="0" loc="(150,2170)" name="Clock">
+      <a name="highDuration" val="3034"/>
+      <a name="lowDuration" val="3034"/>
       <a name="label" val="Mi"/>
     </comp>
     <comp lib="0" loc="(150,2130)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="3405"/>
+      <a name="lowDuration" val="3405"/>
       <a name="label" val="Re5"/>
     </comp>
     <comp lib="0" loc="(150,2810)" name="Clock">
+      <a name="highDuration" val="478"/>
+      <a name="lowDuration" val="478"/>
       <a name="label" val="Do8"/>
     </comp>
     <comp lib="0" loc="(150,2750)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="568"/>
+      <a name="lowDuration" val="568"/>
       <a name="label" val="La7"/>
     </comp>
     <comp lib="0" loc="(150,2410)" name="Clock">
+      <a name="highDuration" val="1517"/>
+      <a name="lowDuration" val="1517"/>
       <a name="label" val="Mi6"/>
     </comp>
     <comp lib="0" loc="(150,2050)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="4290"/>
+      <a name="lowDuration" val="4290"/>
       <a name="label" val="SiB4"/>
     </comp>
     <comp lib="0" loc="(150,1910)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="6428"/>
+      <a name="lowDuration" val="6428"/>
       <a name="label" val="ReD4"/>
     </comp>
     <comp lib="0" loc="(150,1190)" name="Clock">
@@ -825,162 +797,177 @@ end TCL_Generic;
       <a name="label" val="ReD1"/>
     </comp>
     <comp lib="0" loc="(150,1490)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="21622"/>
+      <a name="lowDuration" val="21622"/>
       <a name="label" val="FaD2"/>
     </comp>
     <comp lib="0" loc="(150,1530)" name="Clock">
+      <a name="highDuration" val="19262"/>
+      <a name="lowDuration" val="19262"/>
       <a name="label" val="SolD2"/>
     </comp>
     <comp lib="0" loc="(150,1330)" name="Clock">
-      <a name="highDuration" val="268"/>
+      <a name="highDuration" val="34323"/>
       <a name="lowDuration" val="268"/>
       <a name="label" val="SiB1"/>
     </comp>
     <comp lib="0" loc="(150,1790)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="9091"/>
+      <a name="lowDuration" val="9091"/>
       <a name="label" val="La3"/>
     </comp>
     <comp lib="0" loc="(150,1650)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="13621"/>
+      <a name="lowDuration" val="13621"/>
       <a name="label" val="Re3"/>
     </comp>
     <comp lib="0" loc="(150,1450)" name="Clock">
+      <a name="highDuration" val="24269"/>
+      <a name="lowDuration" val="24269"/>
       <a name="label" val="Mi2"/>
     </comp>
     <comp lib="0" loc="(150,1670)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="12857"/>
+      <a name="lowDuration" val="12857"/>
       <a name="label" val="ReD3"/>
     </comp>
     <comp lib="0" loc="(150,1870)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="7216"/>
+      <a name="lowDuration" val="7216"/>
       <a name="label" val="DoD4"/>
     </comp>
     <comp lib="0" loc="(150,1470)" name="Clock">
-      <a name="highDuration" val="284"/>
+      <a name="highDuration" val="22907"/>
       <a name="lowDuration" val="284"/>
       <a name="label" val="Fa2"/>
     </comp>
     <comp lib="0" loc="(150,1310)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="36364"/>
+      <a name="lowDuration" val="36364"/>
       <a name="label" val="La1"/>
     </comp>
     <comp lib="0" loc="(150,1850)" name="Clock">
+      <a name="highDuration" val="7644"/>
+      <a name="lowDuration" val="7644"/>
       <a name="label" val="Do4"/>
     </comp>
     <comp lib="0" loc="(150,1570)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="17161"/>
+      <a name="lowDuration" val="17161"/>
       <a name="label" val="SiB2"/>
     </comp>
     <comp lib="0" loc="(150,1270)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="40816"/>
+      <a name="lowDuration" val="40816"/>
       <a name="label" val="Sol1"/>
     </comp>
     <comp lib="0" loc="(150,1710)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="11454"/>
+      <a name="lowDuration" val="11454"/>
       <a name="label" val="Fa3"/>
     </comp>
     <comp lib="0" loc="(150,1230)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="45819"/>
+      <a name="lowDuration" val="45819"/>
       <a name="label" val="Fa1"/>
     </comp>
     <comp lib="0" loc="(150,1430)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="25714"/>
+      <a name="lowDuration" val="25714"/>
       <a name="label" val="ReD2"/>
     </comp>
     <comp lib="0" loc="(150,1690)" name="Clock">
+      <a name="highDuration" val="12135"/>
       <a name="label" val="Mi3"/>
     </comp>
     <comp lib="0" loc="(150,1990)" name="Clock">
-      <a name="highDuration" val="253"/>
+      <a name="highDuration" val="5102"/>
       <a name="lowDuration" val="253"/>
       <a name="label" val="Sol4"/>
     </comp>
     <comp lib="0" loc="(150,1830)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="8099"/>
+      <a name="lowDuration" val="8099"/>
       <a name="label" val="Si3"/>
     </comp>
     <comp lib="0" loc="(150,1370)" name="Clock">
+      <a name="highDuration" val="30576"/>
+      <a name="lowDuration" val="30576"/>
       <a name="label" val="Do2"/>
     </comp>
     <comp lib="0" loc="(150,1630)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="14431"/>
+      <a name="lowDuration" val="14431"/>
       <a name="label" val="DoD3"/>
     </comp>
     <comp lib="0" loc="(150,1350)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="32394"/>
+      <a name="lowDuration" val="32394"/>
       <a name="label" val="Si1"/>
     </comp>
     <comp lib="0" loc="(150,1890)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="6811"/>
+      <a name="lowDuration" val="6811"/>
       <a name="label" val="Re4"/>
     </comp>
     <comp lib="0" loc="(150,1610)" name="Clock">
+      <a name="highDuration" val="15289"/>
+      <a name="lowDuration" val="15289"/>
       <a name="label" val="Do3"/>
     </comp>
     <comp lib="0" loc="(150,1290)" name="Clock">
+      <a name="highDuration" val="38528"/>
+      <a name="lowDuration" val="38528"/>
       <a name="label" val="SolD1"/>
     </comp>
     <comp lib="0" loc="(150,1930)" name="Clock">
+      <a name="highDuration" val="6067"/>
+      <a name="lowDuration" val="6067"/>
       <a name="label" val="Mi4"/>
     </comp>
     <comp lib="0" loc="(150,1550)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="18182"/>
+      <a name="lowDuration" val="18182"/>
       <a name="label" val="La2"/>
     </comp>
     <comp lib="0" loc="(150,1590)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="16198"/>
+      <a name="lowDuration" val="16198"/>
       <a name="label" val="Si2"/>
     </comp>
     <comp lib="0" loc="(150,1250)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="43243"/>
+      <a name="lowDuration" val="43243"/>
       <a name="label" val="FaD1"/>
     </comp>
     <comp lib="0" loc="(150,2070)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="4050"/>
+      <a name="lowDuration" val="4050"/>
       <a name="label" val="Si4"/>
     </comp>
     <comp lib="0" loc="(150,1390)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="28860"/>
+      <a name="lowDuration" val="28860"/>
       <a name="label" val="DoD2"/>
     </comp>
     <comp lib="0" loc="(150,1170)" name="Clock">
       <a name="highDuration" val="54481"/>
-      <a name="lowDuration" val="268"/>
+      <a name="lowDuration" val="54481"/>
       <a name="label" val="Re1"/>
     </comp>
     <comp lib="0" loc="(150,1730)" name="Clock">
-      <a name="highDuration" val="268"/>
+      <a name="highDuration" val="10811"/>
       <a name="lowDuration" val="268"/>
       <a name="label" val="FaD3"/>
     </comp>
     <comp lib="0" loc="(150,1410)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="27241"/>
+      <a name="lowDuration" val="27241"/>
       <a name="label" val="Re2"/>
     </comp>
     <comp lib="0" loc="(150,2030)" name="Clock">
-      <a name="highDuration" val="284"/>
-      <a name="lowDuration" val="284"/>
+      <a name="highDuration" val="4545"/>
+      <a name="lowDuration" val="4545"/>
       <a name="label" val="La4"/>
     </comp>
     <comp lib="0" loc="(150,1130)" name="Clock">
@@ -989,8 +976,8 @@ end TCL_Generic;
       <a name="label" val="Do1"/>
     </comp>
     <comp lib="0" loc="(150,1810)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="8581"/>
+      <a name="lowDuration" val="8581"/>
       <a name="label" val="SiB3"/>
     </comp>
     <comp lib="0" loc="(150,1150)" name="Clock">
@@ -999,32 +986,37 @@ end TCL_Generic;
       <a name="label" val="DoD1"/>
     </comp>
     <comp lib="0" loc="(150,1210)" name="Clock">
+      <a name="highDuration" val="48544"/>
+      <a name="lowDuration" val="48544"/>
       <a name="label" val="Mi1"/>
     </comp>
     <comp lib="0" loc="(150,2010)" name="Clock">
+      <a name="highDuration" val="4816"/>
       <a name="label" val="SolD4"/>
     </comp>
     <comp lib="0" loc="(150,1510)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="20408"/>
+      <a name="lowDuration" val="20408"/>
       <a name="label" val="Sol2"/>
     </comp>
     <comp lib="0" loc="(150,1950)" name="Clock">
-      <a name="highDuration" val="284"/>
+      <a name="highDuration" val="5727"/>
       <a name="lowDuration" val="284"/>
       <a name="label" val="Fa4"/>
     </comp>
     <comp lib="0" loc="(150,1750)" name="Clock">
-      <a name="highDuration" val="253"/>
-      <a name="lowDuration" val="253"/>
+      <a name="highDuration" val="10204"/>
+      <a name="lowDuration" val="10204"/>
       <a name="label" val="Sol3"/>
     </comp>
     <comp lib="0" loc="(150,1770)" name="Clock">
+      <a name="highDuration" val="9632"/>
+      <a name="lowDuration" val="9632"/>
       <a name="label" val="SolD3"/>
     </comp>
     <comp lib="0" loc="(150,1970)" name="Clock">
-      <a name="highDuration" val="268"/>
-      <a name="lowDuration" val="268"/>
+      <a name="highDuration" val="5406"/>
+      <a name="lowDuration" val="5406"/>
       <a name="label" val="FaD4"/>
     </comp>
     <comp loc="(910,2150)" name="music_givenTheme"/>
@@ -1045,6 +1037,68 @@ end TCL_Generic;
       <a name="label" val="buzzer_0"/>
     </comp>
     <comp lib="0" loc="(1210,1430)" name="Ground"/>
+    <comp lib="0" loc="(1220,1200)" name="Ground"/>
+    <comp lib="0" loc="(1240,1220)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_7"/>
+    </comp>
+    <comp lib="0" loc="(1240,1300)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_3"/>
+    </comp>
+    <comp lib="0" loc="(1240,1180)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_9"/>
+    </comp>
+    <comp lib="0" loc="(1240,1280)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_4"/>
+    </comp>
+    <comp lib="0" loc="(1240,1360)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_0"/>
+    </comp>
+    <comp lib="0" loc="(1240,1200)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_8"/>
+    </comp>
+    <comp lib="0" loc="(1240,1240)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_6"/>
+    </comp>
+    <comp lib="0" loc="(1240,1340)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_1"/>
+    </comp>
+    <comp lib="0" loc="(1240,1260)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_5"/>
+    </comp>
+    <comp lib="0" loc="(1240,1320)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="led_2"/>
+    </comp>
+    <comp lib="5" loc="(650,2310)" name="Button"/>
+    <comp lib="0" loc="(150,2630)" name="Clock">
+      <a name="highDuration" val="804"/>
+      <a name="lowDuration" val="804"/>
+      <a name="label" val="ReD7"/>
+    </comp>
+    <comp lib="0" loc="(150,2650)" name="Clock">
+      <a name="highDuration" val="758"/>
+      <a name="lowDuration" val="758"/>
+      <a name="label" val="Mi7"/>
+    </comp>
   </circuit>
   <circuit name="output_logic">
     <a name="circuit" val="output_logic"/>
@@ -4104,37 +4158,37 @@ end TCL_Generic;
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="circuitvhdlpath" val=""/>
-    <wire from="(370,50)" to="(370,70)"/>
-    <wire from="(340,390)" to="(380,390)"/>
-    <wire from="(280,550)" to="(280,640)"/>
-    <wire from="(220,610)" to="(380,610)"/>
-    <wire from="(330,110)" to="(330,270)"/>
-    <wire from="(370,50)" to="(380,50)"/>
-    <wire from="(340,340)" to="(340,390)"/>
-    <wire from="(340,580)" to="(340,640)"/>
+    <wire from="(570,580)" to="(690,580)"/>
+    <wire from="(220,640)" to="(280,640)"/>
+    <wire from="(330,110)" to="(380,110)"/>
+    <wire from="(330,360)" to="(380,360)"/>
     <wire from="(370,300)" to="(370,310)"/>
+    <wire from="(370,50)" to="(370,70)"/>
+    <wire from="(330,270)" to="(570,270)"/>
+    <wire from="(280,550)" to="(380,550)"/>
+    <wire from="(340,390)" to="(380,390)"/>
     <wire from="(340,640)" to="(380,640)"/>
     <wire from="(330,520)" to="(690,520)"/>
-    <wire from="(330,360)" to="(330,520)"/>
-    <wire from="(350,140)" to="(380,140)"/>
-    <wire from="(370,300)" to="(380,300)"/>
-    <wire from="(270,100)" to="(350,100)"/>
-    <wire from="(330,110)" to="(380,110)"/>
-    <wire from="(330,270)" to="(570,270)"/>
+    <wire from="(280,550)" to="(280,640)"/>
     <wire from="(280,70)" to="(370,70)"/>
     <wire from="(280,310)" to="(370,310)"/>
+    <wire from="(220,610)" to="(380,610)"/>
     <wire from="(570,140)" to="(590,140)"/>
+    <wire from="(330,110)" to="(330,270)"/>
+    <wire from="(330,360)" to="(330,520)"/>
+    <wire from="(350,140)" to="(380,140)"/>
+    <wire from="(350,100)" to="(350,140)"/>
+    <wire from="(370,50)" to="(380,50)"/>
+    <wire from="(370,300)" to="(380,300)"/>
+    <wire from="(270,100)" to="(350,100)"/>
     <wire from="(280,310)" to="(280,550)"/>
     <wire from="(280,70)" to="(280,310)"/>
     <wire from="(260,340)" to="(340,340)"/>
     <wire from="(260,580)" to="(340,580)"/>
     <wire from="(570,270)" to="(570,330)"/>
-    <wire from="(570,580)" to="(690,580)"/>
-    <wire from="(220,640)" to="(280,640)"/>
-    <wire from="(330,360)" to="(380,360)"/>
-    <wire from="(280,550)" to="(380,550)"/>
-    <wire from="(350,100)" to="(350,140)"/>
     <wire from="(690,520)" to="(690,580)"/>
+    <wire from="(340,340)" to="(340,390)"/>
+    <wire from="(340,580)" to="(340,640)"/>
     <wire from="(570,80)" to="(580,80)"/>
     <comp lib="0" loc="(570,640)" name="Pin">
       <a name="facing" val="west"/>
