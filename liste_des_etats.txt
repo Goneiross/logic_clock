@@ -1,0 +1,10 @@
+liste des états:
+
+0000 affichage de l'heure (donc par défaut)
+0001 menu heure
+0010 menu set heure
+0011 set heure
+0100 menu alarme
+0101 alarme set
+0110 menu fuseau horaire
+0111 choix fuseau horaire
