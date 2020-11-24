@@ -1322,7 +1322,9 @@ end TCL_Generic;
       <a name="width" val="3"/>
       <a name="value" val="0x7"/>
     </comp>
-    <comp loc="(2310,880)" name="set_time_setter"/>
+    <comp loc="(2310,880)" name="set_time_setter">
+      <a name="labelvisible" val="false"/>
+    </comp>
     <comp loc="(2090,1120)" name="binary_to_time_converter">
       <a name="facing" val="west"/>
     </comp>
@@ -17685,12 +17687,30 @@ end TCL_Generic;
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="circuitvhdlpath" val=""/>
-    <wire from="(670,130)" to="(730,130)"/>
-    <wire from="(670,250)" to="(730,250)"/>
-    <wire from="(670,370)" to="(730,370)"/>
     <wire from="(670,490)" to="(730,490)"/>
+    <wire from="(670,250)" to="(730,250)"/>
+    <wire from="(670,130)" to="(730,130)"/>
     <wire from="(670,610)" to="(730,610)"/>
+    <wire from="(670,500)" to="(730,500)"/>
+    <wire from="(670,520)" to="(730,520)"/>
+    <wire from="(670,540)" to="(730,540)"/>
     <wire from="(670,730)" to="(730,730)"/>
+    <wire from="(670,620)" to="(730,620)"/>
+    <wire from="(670,640)" to="(730,640)"/>
+    <wire from="(670,670)" to="(730,670)"/>
+    <wire from="(670,740)" to="(730,740)"/>
+    <wire from="(670,760)" to="(730,760)"/>
+    <wire from="(670,790)" to="(730,790)"/>
+    <wire from="(670,140)" to="(730,140)"/>
+    <wire from="(670,160)" to="(730,160)"/>
+    <wire from="(670,180)" to="(730,180)"/>
+    <wire from="(670,260)" to="(730,260)"/>
+    <wire from="(670,280)" to="(730,280)"/>
+    <wire from="(670,370)" to="(730,370)"/>
+    <wire from="(670,300)" to="(730,300)"/>
+    <wire from="(670,380)" to="(730,380)"/>
+    <wire from="(670,400)" to="(730,400)"/>
+    <wire from="(670,420)" to="(730,420)"/>
     <wire from="(710,220)" to="(750,220)"/>
     <wire from="(710,460)" to="(750,460)"/>
     <wire from="(710,340)" to="(750,340)"/>
@@ -17718,23 +17738,11 @@ end TCL_Generic;
       <a name="width" val="5"/>
       <a name="enable" val="false"/>
     </comp>
-    <comp lib="0" loc="(670,730)" name="Constant">
-      <a name="width" val="5"/>
-      <a name="value" val="0x1f"/>
-    </comp>
     <comp lib="0" loc="(770,400)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="5"/>
       <a name="label" val="O_3"/>
-    </comp>
-    <comp lib="0" loc="(670,130)" name="Constant">
-      <a name="width" val="5"/>
-      <a name="value" val="0x1b"/>
-    </comp>
-    <comp lib="0" loc="(670,610)" name="Constant">
-      <a name="width" val="5"/>
-      <a name="value" val="0x1c"/>
     </comp>
     <comp lib="0" loc="(770,520)" name="Pin">
       <a name="facing" val="west"/>
@@ -17746,10 +17754,6 @@ end TCL_Generic;
       <a name="select" val="3"/>
       <a name="width" val="5"/>
       <a name="enable" val="false"/>
-    </comp>
-    <comp lib="0" loc="(670,370)" name="Constant">
-      <a name="width" val="5"/>
-      <a name="value" val="0x1c"/>
     </comp>
     <comp lib="0" loc="(770,280)" name="Pin">
       <a name="facing" val="west"/>
@@ -17773,10 +17777,6 @@ end TCL_Generic;
       <a name="width" val="5"/>
       <a name="enable" val="false"/>
     </comp>
-    <comp lib="0" loc="(670,250)" name="Constant">
-      <a name="width" val="5"/>
-      <a name="value" val="0xd"/>
-    </comp>
     <comp lib="2" loc="(770,640)" name="Multiplexer">
       <a name="select" val="3"/>
       <a name="width" val="5"/>
@@ -17799,9 +17799,101 @@ end TCL_Generic;
       <a name="width" val="5"/>
       <a name="enable" val="false"/>
     </comp>
-    <comp lib="0" loc="(670,490)" name="Constant">
+    <comp lib="0" loc="(670,160)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1c"/>
+    </comp>
+    <comp lib="0" loc="(670,280)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0xe"/>
+    </comp>
+    <comp lib="0" loc="(670,400)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1d"/>
+    </comp>
+    <comp lib="0" loc="(670,520)" name="Constant">
       <a name="width" val="5"/>
       <a name="value" val="0x1f"/>
+    </comp>
+    <comp lib="0" loc="(670,640)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0xa"/>
+    </comp>
+    <comp lib="0" loc="(670,760)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1f"/>
+    </comp>
+    <comp lib="0" loc="(670,140)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1c"/>
+    </comp>
+    <comp lib="0" loc="(670,260)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0xe"/>
+    </comp>
+    <comp lib="0" loc="(670,380)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1d"/>
+    </comp>
+    <comp lib="0" loc="(670,500)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1f"/>
+    </comp>
+    <comp lib="0" loc="(670,620)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1d"/>
+    </comp>
+    <comp lib="0" loc="(670,740)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1f"/>
+    </comp>
+    <comp lib="0" loc="(670,130)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1d"/>
+    </comp>
+    <comp lib="0" loc="(670,490)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0xe"/>
+    </comp>
+    <comp lib="0" loc="(670,250)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x12"/>
+    </comp>
+    <comp lib="0" loc="(670,370)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1e"/>
+    </comp>
+    <comp lib="0" loc="(670,730)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1f"/>
+    </comp>
+    <comp lib="0" loc="(670,610)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1f"/>
+    </comp>
+    <comp lib="0" loc="(670,790)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x17"/>
+    </comp>
+    <comp lib="0" loc="(670,670)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x18"/>
+    </comp>
+    <comp lib="0" loc="(670,180)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x1b"/>
+    </comp>
+    <comp lib="0" loc="(670,300)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0xe"/>
+    </comp>
+    <comp lib="0" loc="(670,420)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x10"/>
+    </comp>
+    <comp lib="0" loc="(670,540)" name="Constant">
+      <a name="width" val="5"/>
+      <a name="value" val="0x12"/>
     </comp>
   </circuit>
 </project>
