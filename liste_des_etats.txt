@@ -8,3 +8,5 @@ liste des états:
 0101 alarme set
 0110 menu fuseau horaire
 0111 choix fuseau horaire
+1000 menu jukebox
+1001 jukebox
