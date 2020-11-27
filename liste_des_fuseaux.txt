@@ -1,0 +1,6 @@
+liste des fuseaux:
+
+000 London UTC
+001 Lausanne UTC+1
+010 Montreal UTC-5
+011 Osaka UTC+9
