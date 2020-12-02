@@ -341,6 +341,7 @@ end TCL_Generic;
     <wire from="(1300,620)" to="(1350,620)"/>
     <wire from="(2910,690)" to="(3560,690)"/>
     <wire from="(2470,1580)" to="(2540,1580)"/>
+    <wire from="(540,890)" to="(540,1250)"/>
     <wire from="(3940,1100)" to="(3940,1130)"/>
     <wire from="(3940,1580)" to="(3940,1610)"/>
     <wire from="(540,1650)" to="(560,1650)"/>
@@ -402,6 +403,7 @@ end TCL_Generic;
     <wire from="(3500,700)" to="(3560,700)"/>
     <wire from="(3500,1660)" to="(3560,1660)"/>
     <wire from="(1850,890)" to="(1850,1250)"/>
+    <wire from="(540,1250)" to="(810,1250)"/>
     <wire from="(2090,620)" to="(2090,910)"/>
     <wire from="(640,870)" to="(640,1050)"/>
     <wire from="(3070,1670)" to="(3070,1750)"/>
@@ -476,6 +478,7 @@ end TCL_Generic;
     <wire from="(3500,1440)" to="(3560,1440)"/>
     <wire from="(3500,1920)" to="(3560,1920)"/>
     <wire from="(2170,680)" to="(2170,700)"/>
+    <wire from="(210,1250)" to="(540,1250)"/>
     <wire from="(2130,690)" to="(2130,1160)"/>
     <wire from="(2490,1160)" to="(2490,1190)"/>
     <wire from="(1320,310)" to="(1320,350)"/>
@@ -583,7 +586,6 @@ end TCL_Generic;
     <wire from="(1220,680)" to="(1220,1250)"/>
     <wire from="(2170,750)" to="(2170,760)"/>
     <wire from="(3340,2010)" to="(3380,2010)"/>
-    <wire from="(210,1250)" to="(810,1250)"/>
     <wire from="(1910,1410)" to="(2250,1410)"/>
     <wire from="(3250,1690)" to="(3560,1690)"/>
     <wire from="(3130,1870)" to="(3130,1880)"/>
@@ -767,7 +769,6 @@ end TCL_Generic;
     <wire from="(3080,1910)" to="(3560,1910)"/>
     <wire from="(2770,1180)" to="(2770,1880)"/>
     <wire from="(610,1690)" to="(610,1910)"/>
-    <wire from="(540,890)" to="(540,920)"/>
     <wire from="(2170,720)" to="(2180,720)"/>
     <wire from="(1330,300)" to="(1330,440)"/>
     <wire from="(590,970)" to="(590,1050)"/>
@@ -1335,7 +1336,6 @@ end TCL_Generic;
     <comp loc="(440,780)" name="to_one_tic">
       <a name="label" val="debouncer_1"/>
     </comp>
-    <comp lib="0" loc="(540,920)" name="Ground"/>
     <comp lib="0" loc="(1970,870)" name="Clock">
       <a name="highDuration" val="1000000"/>
       <a name="lowDuration" val="1000000"/>
