@@ -10,3 +10,5 @@ liste des états:
 0111 choix fuseau horaire
 1000 menu jukebox
 1001 jukebox
+1010 menu chrono
+1011 chrono
