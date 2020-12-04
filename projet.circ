@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project source="2.15.0" version="1.0">
-  This file is intended to be loaded by Logisim-evolution (https://github.com/reds-heig/logisim-evolution).
-
-  <lib desc="#Wiring" name="0">
+This file is intended to be loaded by Logisim-evolution (https://github.com/reds-heig/logisim-evolution).
+<lib desc="#Wiring" name="0">
     <tool name="Splitter">
       <a name="facing" val="west"/>
       <a name="fanout" val="5"/>
@@ -184,9 +183,9 @@ end TCL_Generic;
     <wire from="(3250,1960)" to="(3360,1960)"/>
     <wire from="(3250,1480)" to="(3360,1480)"/>
     <wire from="(3250,1000)" to="(3360,1000)"/>
-    <wire from="(2150,640)" to="(2150,840)"/>
-    <wire from="(2910,1380)" to="(2970,1380)"/>
     <wire from="(2910,900)" to="(2970,900)"/>
+    <wire from="(2910,1380)" to="(2970,1380)"/>
+    <wire from="(2150,640)" to="(2150,840)"/>
     <wire from="(2910,740)" to="(2970,740)"/>
     <wire from="(2910,1700)" to="(2970,1700)"/>
     <wire from="(2910,1220)" to="(2970,1220)"/>
@@ -492,11 +491,11 @@ end TCL_Generic;
     <wire from="(3250,1240)" to="(3360,1240)"/>
     <wire from="(540,1690)" to="(560,1690)"/>
     <wire from="(990,350)" to="(1140,350)"/>
-    <wire from="(2910,980)" to="(2970,980)"/>
-    <wire from="(2910,660)" to="(2970,660)"/>
-    <wire from="(2910,1140)" to="(2970,1140)"/>
     <wire from="(2910,1620)" to="(2970,1620)"/>
     <wire from="(2910,1460)" to="(2970,1460)"/>
+    <wire from="(2910,980)" to="(2970,980)"/>
+    <wire from="(2910,1140)" to="(2970,1140)"/>
+    <wire from="(2910,660)" to="(2970,660)"/>
     <wire from="(730,750)" to="(760,750)"/>
     <wire from="(2910,1940)" to="(2970,1940)"/>
     <wire from="(1750,670)" to="(1760,670)"/>
@@ -975,7 +974,9 @@ end TCL_Generic;
       <a name="width" val="4"/>
       <a name="value" val="0x3"/>
     </comp>
-    <comp loc="(2050,2000)" name="chrono"/>
+    <comp loc="(2050,2000)" name="chrono">
+      <a name="label" val="chrono_1"/>
+    </comp>
     <comp lib="0" loc="(1990,770)" name="Probe">
       <a name="facing" val="west"/>
       <a name="radix" val="10signed"/>
@@ -6114,8 +6115,8 @@ end TCL_Generic;
     <wire from="(890,1240)" to="(910,1240)"/>
     <wire from="(950,2580)" to="(970,2580)"/>
     <wire from="(550,260)" to="(570,260)"/>
-    <wire from="(630,340)" to="(650,340)"/>
     <wire from="(550,2820)" to="(570,2820)"/>
+    <wire from="(630,340)" to="(650,340)"/>
     <wire from="(470,4660)" to="(490,4660)"/>
     <wire from="(570,920)" to="(590,920)"/>
     <wire from="(550,1540)" to="(570,1540)"/>
@@ -21096,17 +21097,17 @@ end TCL_Generic;
     <wire from="(950,200)" to="(1090,200)"/>
     <wire from="(600,490)" to="(600,500)"/>
     <wire from="(530,580)" to="(580,580)"/>
-    <wire from="(530,620)" to="(580,620)"/>
     <wire from="(530,640)" to="(580,640)"/>
+    <wire from="(530,620)" to="(580,620)"/>
     <wire from="(530,600)" to="(580,600)"/>
-    <wire from="(530,660)" to="(580,660)"/>
     <wire from="(530,680)" to="(580,680)"/>
-    <wire from="(530,560)" to="(580,560)"/>
+    <wire from="(530,660)" to="(580,660)"/>
     <wire from="(530,540)" to="(580,540)"/>
-    <wire from="(530,520)" to="(580,520)"/>
+    <wire from="(530,560)" to="(580,560)"/>
     <wire from="(530,500)" to="(580,500)"/>
-    <wire from="(530,480)" to="(580,480)"/>
+    <wire from="(530,520)" to="(580,520)"/>
     <wire from="(530,460)" to="(580,460)"/>
+    <wire from="(530,480)" to="(580,480)"/>
     <wire from="(200,400)" to="(260,400)"/>
     <wire from="(200,330)" to="(250,330)"/>
     <wire from="(300,220)" to="(930,220)"/>
@@ -21584,18 +21585,26 @@ end TCL_Generic;
       <a name="width" val="6"/>
       <a name="value" val="0x3b"/>
     </comp>
-    <comp loc="(1850,210)" name="time_to_binary_converter"/>
+    <comp loc="(1850,210)" name="time_to_binary_converter">
+      <a name="label" val="time_to_binary_converter_1"/>
+    </comp>
     <comp lib="0" loc="(1080,150)" name="Power"/>
-    <comp loc="(1860,880)" name="time_to_binary_converter"/>
+    <comp loc="(1860,880)" name="time_to_binary_converter">
+      <a name="label" val="time_to_binary_converter_2"/>
+    </comp>
     <comp lib="3" loc="(1430,820)" name="Comparator">
       <a name="width" val="6"/>
     </comp>
-    <comp loc="(830,1360)" name="binary_to_time_converter"/>
+    <comp loc="(830,1360)" name="binary_to_time_converter">
+      <a name="label" val="binary_to_time_converter_3"/>
+    </comp>
     <comp lib="4" loc="(1100,770)" name="Counter">
       <a name="width" val="6"/>
       <a name="max" val="0x3b"/>
     </comp>
-    <comp loc="(1850,1380)" name="time_to_binary_converter"/>
+    <comp loc="(1850,1380)" name="time_to_binary_converter">
+      <a name="label" val="time_to_binary_converter_3"/>
+    </comp>
     <comp lib="0" loc="(2000,740)" name="Splitter">
       <a name="facing" val="west"/>
       <a name="fanout" val="6"/>
@@ -21636,7 +21645,9 @@ end TCL_Generic;
       <a name="facing" val="north"/>
       <a name="size" val="30"/>
     </comp>
-    <comp loc="(830,830)" name="binary_to_time_converter"/>
+    <comp loc="(830,830)" name="binary_to_time_converter">
+      <a name="label" val="binary_to_time_converter_2"/>
+    </comp>
     <comp lib="4" loc="(1100,1310)" name="Counter">
       <a name="width" val="6"/>
       <a name="max" val="0x3b"/>
@@ -21685,7 +21696,9 @@ end TCL_Generic;
       <a name="width" val="6"/>
     </comp>
     <comp lib="0" loc="(1090,1360)" name="Power"/>
-    <comp loc="(830,170)" name="binary_to_time_converter"/>
+    <comp loc="(830,170)" name="binary_to_time_converter">
+      <a name="label" val="binary_to_time_converter_1"/>
+    </comp>
     <comp lib="0" loc="(2120,740)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
@@ -21705,6 +21718,7 @@ end TCL_Generic;
     </comp>
     <comp lib="0" loc="(550,1660)" name="Constant">
       <a name="width" val="4"/>
+      <a name="value" val="0xb"/>
     </comp>
     <comp lib="0" loc="(490,1690)" name="Pin">
       <a name="label" val="R"/>
@@ -21740,6 +21754,8 @@ end TCL_Generic;
     <comp lib="0" loc="(1060,800)" name="Ground"/>
     <comp lib="0" loc="(1050,130)" name="Ground"/>
     <comp lib="0" loc="(460,1570)" name="Clock">
+      <a name="highDuration" val="1000000"/>
+      <a name="lowDuration" val="1000000"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(450,840)" name="Ground">
